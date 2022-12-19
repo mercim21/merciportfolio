@@ -1,6 +1,15 @@
-:root {
---dark: #teal
---light: #lightpink
-
+body {
+    background-color: #f7e2db;
 }
 
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #fd8989;
+    color: #ffffff;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
