@@ -3,15 +3,17 @@ body {
 }
 
 header #logo {
-    width: 30%;
+    width: 25%;
     max-width: 200px;
+    flex-wrap: wrap;
+   
 }
 
 h1 {
-    padding: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:#76b7ad;
-    flex-wrap: wrap;
     font-size: 36px;
-    display: center;
+    text-align: end;
+  
 }
